@@ -1,7 +1,7 @@
 ---
 icon: address-card
 ---
-# 关于
+# 开发成员
 ## MSLTeam是一个~~年轻的团队~~,下面是主要成员:
 <style>
   .card {
@@ -25,19 +25,21 @@ icon: address-card
 </style>
 <div class="cards">
   <div class="card">
-    <img src="https://www.github.com/Waheal.png" alt="开发者1的名字" style="width:100%">
+  <center>
+<img src="https://www.github.com/Waheal.png" alt="Waheal" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Waheal</h2>
     <p>创始人</p>
     <p><a href="https://www.github.com/Waheal">GitHub</a></p></center>
   </div>
   <div class="card">
-    <img src="https://www.github.com/MojaveHao.png" alt="开发者2的名字" style="width:100%">
+  <center>
+    <img src="https://www.github.com/MojaveHao.png" alt="MojaveHao" style="width:95%; border-radius: 50%;"></center>
     <center><h2>MojaveHao</h2>
     <p>成员/全栈(?)</p>
     <p><a href="https://www.github.com/MojaveHao">GitHub</a></p></center>
   </div>
   <div class="card">
-    <img src="https://www.github.com/luluxiaoyu.png" alt="开发者3的名字" style="width:100%">
+    <center><img src="https://www.github.com/luluxiaoyu.png" alt="Xiaoyu" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Xiaoyu</h2>
     <p>成员/后端/摸🐟</p>
     <p><a href="https://www.github.com/luluxiaoyu">GitHub</a></p></center>

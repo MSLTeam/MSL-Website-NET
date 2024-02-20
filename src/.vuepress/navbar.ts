@@ -8,6 +8,11 @@ export default navbar([
     link: "/docs/",
   },
   {
+    text: "开发成员",
+    icon: "user-group",
+    link: "/info",
+  },
+  {
     text: "加入QQ群",
     icon: "comment",
     children: [
