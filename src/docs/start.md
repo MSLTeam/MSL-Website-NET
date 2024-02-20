@@ -1,18 +1,25 @@
 # 使用MSL开服
 
-> 视频教程[There](https://www.bilibili.com/video/BV1au4y1d7Td)
-> 
-> 运行环境:.net Framework 4.7.2[此处下载](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
+## 视频教程
+
+<BiliBili bvid="BV1au4y1d7Td" />
+
+## 文本教程
+
+::: important 运行环境
+若您无法打开软件，请下载运行环境！（一般WIN10以上系统自带）  
+运行环境: .net Framework 4.7.2 [摁一下立刻下载](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
+:::
 
 ![img](./assets/first_use.png)
 
 ![img](./assets/manually.png)
 
-## 快速模式
+### 快速模式
 
 根据软件内提示完成即可,此处不再赘述
 
-## 自定义模式
+### 自定义模式
 
 首先在这里填写基本信息
 
