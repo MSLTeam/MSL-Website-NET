@@ -4,13 +4,13 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "MSL | 使用文档",
+      text: "使用文档",
       icon: "laptop-code",
       prefix: "docs/",
       link: "docs/",
-      children: ["start","config","frpc","p2p","software"],
+      children: ["start","server-config","frp","p2p","config"],
     },
-    "/info",
+    "/group",
     "/eula",
   ],
 });

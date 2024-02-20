@@ -5,15 +5,15 @@ export default navbar([
   {
     text: "文档",
     icon: "book",
-    link: "/docs/",
+    link: "/docs/start",
   },
   {
-    text: "开发成员",
+    text: "团队",
     icon: "user-group",
-    link: "/info",
+    link: "/group",
   },
   {
-    text: "加入QQ群",
+    text: "QQ群",
     icon: "comment",
     children: [
       {
@@ -27,10 +27,5 @@ export default navbar([
         link: "https://qm.qq.com/q/iQs8kpW7Ti",
       },
     ],
-  },
-  {
-    text: "MSL Github",
-    icon: "code-merge",
-    link: "https://github.com/MSLTeam/MSL",
-  },
+  }
 ]);

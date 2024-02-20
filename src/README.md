@@ -4,7 +4,7 @@ icon: home
 title: 主页
 heroImage: /logo.png
 heroText: Minecraft Server Lacuncher
-tagline: （MSL）新一代服务器管理/联机工具✨
+tagline: MSL-新一代服务器管理/联机工具
 actions:
   - text: 立即下载
     icon: download
@@ -13,7 +13,7 @@ actions:
 
   - text: 文档
     icon: lightbulb
-    link: ./docs/start.html
+    link: ./docs/start
 
   - text: Github
     icon: code-commit
@@ -30,12 +30,12 @@ highlights:
       - title: 一键更改服务器设置
         icon: gear
         details: 开服器配备服务器的基本信息选项，您可一键进行更改
-        link: /docs/config
+        link: /docs/server-config
 
       - title: 内网穿透
         icon: ethernet
         details: 开服器内置免费的内网映射，足够让您和您的小伙伴畅快联机
-        link: /docs/frpc
+        link: /docs/frp
 
       - title: 点对点联机
         icon: network-wired
@@ -43,7 +43,6 @@ highlights:
         link: /docs/p2p
 
   
-
-copyright: false
-footer: Powered by <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> | Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024 | <a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>
+footer: Powered by <a href="https://vuepress.vuejs.org/" target="_blank">VuePress</a> & <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a>
+copyright: Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024 & <a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>
 ---

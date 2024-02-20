@@ -10,12 +10,11 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: "fontawesome",
+  iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
 
-  repo: "MSLTeam/MSL-Docs-Vuepress",
-  docsBranch:"master",
+  repo: "MSLTeam/MSL",
 
   docsDir: "src",
 
@@ -48,16 +47,23 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+    // 你应该自行生成自己的评论服务
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "vuepress-theme-hope/giscus-discussions",
+    //   repoId: "R_kgDOG_Pt2A",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    // },
     searchPro: true,
 
     components: {
-      components: ["Badge", "VPCard","BiliBili"],
+      components: ["Badge", "VPCard"],
     },
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
       align: true,
-      alert: true,
       attrs: true,
       codetabs: true,
       component: true,
@@ -124,7 +130,7 @@ export default hopeTheme({
       // sandpack: true,
     },
 
-    // 如果你需要 PWA。安装 vuepress-plugin-pwa2 并取消下方注释
+    // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
     //   cacheHTML: true,

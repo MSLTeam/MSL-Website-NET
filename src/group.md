@@ -28,7 +28,7 @@ icon: address-card
   <center>
 <img src="https://www.github.com/Waheal.png" alt="Waheal" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Waheal</h2>
-    <p>创始人</p>
+    <p>创始人/MSL开发者</p>
     <p><a href="https://www.github.com/Waheal">GitHub</a></p></center>
   </div>
   <div class="card">
