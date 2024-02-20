@@ -37,11 +37,11 @@ export default hopeTheme({
   //  },
   //},
 
-  editLink: false,
+  editLink: true,
 
   // 多语言配置
   metaLocales: {
-    //editLink: "在 GitHub 上编辑此页",
+    editLink: "在Github上编辑",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
