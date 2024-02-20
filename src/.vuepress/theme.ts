@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "MSLTeam/MSL-Docs-Vuepress",
+  repo: "MSLTeam/MSL-Website",
   docsBranch:"master",
 
   docsDir: "src",
