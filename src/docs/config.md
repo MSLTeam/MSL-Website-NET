@@ -1,4 +1,4 @@
-# 服务器相关配置&QA
+# 服务器相关配置
 
 ![img](./assets/config_part1.png)
 

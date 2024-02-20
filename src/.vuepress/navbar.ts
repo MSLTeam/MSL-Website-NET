@@ -2,29 +2,30 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
   {
-    text: "指南",
-    icon: "lightbulb",
-    prefix: "/guide/",
+    text: "文档",
+    icon: "book",
+    link: "/docs/",
+  },
+  {
+    text: "加入QQ群",
+    icon: "comment",
     children: [
       {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        text: "1群",
+        icon: "comment-dots",
+        link: "https://qm.qq.com/q/XJHolO55ue",
       },
       {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        text: "2群",
+        icon: "comment-dots",
+        link: "https://qm.qq.com/q/iQs8kpW7Ti",
       },
     ],
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "MSL Github",
+    icon: "code-merge",
+    link: "https://github.com/MSLTeam/MSL",
   },
 ]);

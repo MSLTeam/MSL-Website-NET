@@ -8,7 +8,7 @@ export default sidebar({
       icon: "laptop-code",
       prefix: "docs/",
       link: "docs/",
-      children: "structure",
+      children: ["start","config","frpc","p2p","software","info"],
     },
     "/eula",
   ],

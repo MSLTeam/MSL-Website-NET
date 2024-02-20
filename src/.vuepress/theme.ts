@@ -3,18 +3,19 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://www.mslmc.cn",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "MSLTeam",
+    url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "fontawesome",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "MSLTeam/MSL-Docs-Vuepress",
+  docsBranch:"master",
 
   docsDir: "src",
 
@@ -25,7 +26,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "<a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>",
+  copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024",
   displayFooter: true,
 
   // 加密配置
