@@ -30,6 +30,7 @@ export default hopeTheme({
   copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024",
   displayFooter: true,
 
+  
   // 加密配置
   encrypt: {
     config: {
