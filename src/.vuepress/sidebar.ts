@@ -11,6 +11,10 @@ export default sidebar({
       children: ["start","server-config","frp","p2p","config"],
     },
     "/group",
-    "/eula",
+    {
+      text: "用户使用协议",
+      icon: "circle-info",
+      link: "/eula",
+    },
   ],
 });

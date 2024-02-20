@@ -1,5 +1,4 @@
 ---
-icon: circle-info
 sidebar: false
 ---
 
