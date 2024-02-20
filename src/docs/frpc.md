@@ -1,3 +1,6 @@
+---
+icon: ethernet
+---
 # 内网穿透配置
 
 ## MSL自带

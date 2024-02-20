@@ -1,3 +1,6 @@
+---
+icon: network-wired
+---
 # 点对点联机教程
 
 ::: tip TIPS

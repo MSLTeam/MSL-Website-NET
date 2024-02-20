@@ -1,3 +1,6 @@
+---
+icon: sliders
+---
 # MSL本体配置
 
 芝士MSL的设置页面:
