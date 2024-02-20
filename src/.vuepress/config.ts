@@ -16,12 +16,12 @@ export default defineUserConfig({
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     [
       "link",
-      { rel: "preconnect", href: "https://fonts.proxy.ustclug.org", crossorigin: "" },
+      { rel: "preconnect", href: "https://fonts.font.im", crossorigin: "" },
     ],
     [
       "link",
       {
-        href: "https://fonts.proxy.ustclug.org/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap",
+        href: "https://fonts.font.im/css2?family=Noto+Serif+SC:wght@400;500;700&display=swap",
         rel: "stylesheet",
       },
     ],
