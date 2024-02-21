@@ -42,7 +42,6 @@ highlights:
         details: 如果您既想联机又不想开服务器，不妨试一下此项新功能，无需服务器，通过P2P的方式进行局域网联机
         link: /docs/p2p
 
-  
 footer: Powered by <a href="https://vuepress.vuejs.org/" target="_blank">VuePress</a> & <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a>
 copyright: Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024 & <a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>
 ---
