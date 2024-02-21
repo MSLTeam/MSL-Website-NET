@@ -10,7 +10,12 @@ export default sidebar({
       link: "docs/",
       children: ["start","server-config","frp","p2p","config"],
     },
-    "/group",
+    {
+      text: "团队成员",
+      icon: "address-card",
+      link: "/group",
+      children: [],
+    },
     {
       text: "用户使用协议",
       icon: "circle-info",

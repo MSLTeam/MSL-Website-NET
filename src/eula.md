@@ -1,5 +1,4 @@
 ---
-sidebar: false
 ---
 
 # Minecraft Server Launcher 用户使用协议
