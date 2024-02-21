@@ -35,10 +35,12 @@ export default navbar([
       {
         text: "MSLX",
         link: "https://mslx.fun/",
+        icon: "user-group",
       },
       {
         text: "MCSL",
         link: "https://mcsl.com.cn/",
+        icon: "user-group",
       },
     ],
   },
