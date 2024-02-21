@@ -36,7 +36,7 @@ icon: play
 
 在这里依照你的情况选择下载或导入服务端
 
-不会选择服务端？<a href="/docs/other/choose-server-tips.html">看这里！</a>
+不会选择服务端？[看这里！](/docs/other/choose-server-tips.md)
 
 ![](./assets/create_3.png)
 
