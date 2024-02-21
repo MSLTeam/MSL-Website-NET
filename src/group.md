@@ -1,5 +1,4 @@
 ---
-icon: address-card
 toc: false
 ---
 # 开发成员

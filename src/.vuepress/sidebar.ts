@@ -17,7 +17,11 @@ export default sidebar({
       link: "docs/other/",
       children: ["Choose_Server"],
     },
-    "/group",
+    {      text: "团队成员",
+    icon: "address-card",
+    link: "/group",
+    children: [],
+    },
     {
       text: "用户使用协议",
       icon: "circle-info",

@@ -5,7 +5,7 @@ export default navbar([
   {
     text: "文档",
     icon: "book",
-    link: "/docs/start",
+    link: "/docs/",
   },
   {
     text: "团队",
@@ -25,6 +25,20 @@ export default navbar([
         text: "2群",
         icon: "comment-dots",
         link: "https://qm.qq.com/q/iQs8kpW7Ti",
+      },
+    ],
+  },
+  {
+    text: "友情链接",
+    icon: "link",
+    children: [
+      {
+        text: "MSLX",
+        link: "https://mslx.fun/",
+      },
+      {
+        text: "MCSL",
+        link: "https://mcsl.com.cn/",
       },
     ],
   },
