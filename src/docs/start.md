@@ -36,6 +36,8 @@ icon: play
 
 在这里依照你的情况选择下载或导入服务端
 
+不会选择服务端？[看这里！](/docs/other/Choose_Server)
+
 ![](./assets/create_3.png)
 
 此处基本只需要下一步即可
