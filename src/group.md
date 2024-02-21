@@ -1,8 +1,9 @@
 ---
 icon: address-card
+outline: false
 ---
 # 开发成员
-## MSLTeam是一个~~年轻的团队~~,下面是主要成员:
+## 下面是MSLTeam的主要成员：
 <style>
   .card {
     width: 200px;

@@ -28,9 +28,4 @@ export default navbar([
       },
     ],
   },
-  {
-    text: "Vitepress版本",
-    icon: "more",
-    link: "https://mslx.fun/msl"
-  }
 ]);
