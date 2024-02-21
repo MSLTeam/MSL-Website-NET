@@ -26,20 +26,20 @@ toc: false
 <div class="cards">
   <div class="card">
   <center>
-<img src="https://www.github.com/Waheal.png" alt="Waheal" style="width:95%; border-radius: 50%;"></center>
+<img src="./assets/Waheal.jpg" alt="Waheal" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Waheal</h2>
     <p>创始人/MSL开发者</p>
     <p><a href="https://www.github.com/Waheal">GitHub</a></p></center>
   </div>
   <div class="card">
   <center>
-    <img src="https://www.github.com/MojaveHao.png" alt="MojaveHao" style="width:95%; border-radius: 50%;"></center>
+    <img src="./assets/MojaveHao.jpg" alt="MojaveHao" style="width:95%; border-radius: 50%;"></center>
     <center><h2>MojaveHao</h2>
     <p>成员/全栈(?)</p>
     <p><a href="https://www.github.com/MojaveHao">GitHub</a></p></center>
   </div>
   <div class="card">
-    <center><img src="https://www.github.com/luluxiaoyu.png" alt="Xiaoyu" style="width:95%; border-radius: 50%;"></center>
+    <center><img src="./assets/luluxiaoyu.jpg" alt="Xiaoyu" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Xiaoyu</h2>
     <p>成员/后端/摸🐟</p>
     <p><a href="https://www.github.com/luluxiaoyu">GitHub</a></p></center>
