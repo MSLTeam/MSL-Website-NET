@@ -27,5 +27,10 @@ export default navbar([
         link: "https://qm.qq.com/q/iQs8kpW7Ti",
       },
     ],
+  },
+  {
+    text: "Vitepress版本",
+    icon: "more",
+    link: "https://mslx.fun/msl"
   }
 ]);
