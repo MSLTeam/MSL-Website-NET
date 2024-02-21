@@ -29,7 +29,7 @@ export default navbar([
     ],
   },
   {
-    text: "相关链接",
+    text: "友情链接",
     icon: "link",
     children: [
       {
