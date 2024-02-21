@@ -15,7 +15,7 @@ export default sidebar({
       icon: "angles-right",
       prefix: "docs/other/",
       link: "docs/other/",
-      children: ["Choose_Server"],
+      children: ["choose-server-tips"],
     },
     {      text: "团队成员",
     icon: "address-card",

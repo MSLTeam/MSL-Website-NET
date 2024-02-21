@@ -34,13 +34,13 @@ export default navbar([
     children: [
       {
         text: "MSLX",
+        icon: "link",
         link: "https://mslx.fun/",
-        icon: "user-group",
       },
       {
         text: "MCSL",
+        icon: "link",
         link: "https://mcsl.com.cn/",
-        icon: "user-group",
       },
     ],
   },
