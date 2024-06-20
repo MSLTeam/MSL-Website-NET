@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: Minecraft Server Lacuncher
+heroText: Minecraft Server Launcher
 tagline: MSL-新一代服务器管理/联机工具
 actions:
   - text: 立即下载
