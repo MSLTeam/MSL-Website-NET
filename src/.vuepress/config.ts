@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "Minecraft Server Launcher",
-  description: "Minecraft Server Launcher(MSL)",
+  title: "Minecraft Server Launcher - MSL开服器",
+  description: "Minecraft Server Launcher - MSL开服器官网",
 
   theme,
   head: [
