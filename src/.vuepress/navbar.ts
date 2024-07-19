@@ -35,7 +35,7 @@ export default navbar([
       {
         text: "MSLX",
         icon: "link",
-        link: "https://mslx.fun/",
+        link: "https://mslx.top/",
       },
       {
         text: "MCSL",
