@@ -8,7 +8,7 @@ tagline: MSL-新一代服务器管理/联机工具
 actions:
   - text: 立即下载
     icon: download
-    link: https://file.mslmc.cn/MSL.exe
+    link: https://api.mslmc.cn/v3/download/update?direct=true
     type: primary
 
   - text: 文档
