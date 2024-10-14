@@ -10,7 +10,9 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+  iconAssets: ["https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/css/fontawesome.min.css",
+"https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/css/brands.min.css",
+"https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/css/solid.min.css"],
 
   logo: "/logo.png",
 
