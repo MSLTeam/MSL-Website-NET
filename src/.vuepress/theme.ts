@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: ["fontawesome-with-brands"],
+  iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
 
