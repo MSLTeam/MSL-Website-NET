@@ -10,7 +10,11 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: ["https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/fontawesome.min.js",
+    "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/brands.min.js",
+    "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/solid.min.js"],
+
+  iconPrefix: "fas fa-",
 
   logo: "/logo.png",
 
@@ -29,7 +33,7 @@ export default hopeTheme({
   copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024",
   displayFooter: true,
 
-  
+
   // 加密配置
   //encrypt: {
   //  config: {
