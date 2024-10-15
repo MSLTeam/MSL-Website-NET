@@ -10,9 +10,9 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: ["https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/fontawesome.min.js",
-    "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/brands.min.js",
-    "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.6.0/js/solid.min.js"],
+  iconAssets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
+    "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
+    "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
 
   iconPrefix: "fas fa-",
 
