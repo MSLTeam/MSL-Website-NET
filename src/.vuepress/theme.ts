@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://www.mslmc.cn",
 
   author: {
-    name: "MSLTeam",
+    name: "MSLDev",
     url: "https://github.com/MSLTeam/",
   },
 
@@ -30,7 +30,7 @@ export default hopeTheme({
 
   // 页脚
   footer: "<a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>",
-  copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024",
+  copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLDev</a> 2021-2024",
   displayFooter: true,
 
 
