@@ -8,7 +8,7 @@ tagline: MSL-新一代服务器管理/联机工具
 actions:
   - text: 立即下载
     icon: download
-    link: https://file.mslmc.cn/MSL.exe
+    link: https://api.mslmc.cn/v3/download/update?direct=true
     type: primary
 
   - text: 文档
@@ -43,5 +43,5 @@ highlights:
         link: /docs/p2p
 
 footer: Powered by <a href="https://vuepress.vuejs.org/" target="_blank">VuePress</a> & <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a>
-copyright: Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024 & <a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>
+copyright: Copyright © <a href='https://github.com/MSLTeam/'>MSLDev</a> 2021-2024 & <a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>
 ---

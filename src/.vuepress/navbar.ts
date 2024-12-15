@@ -8,7 +8,7 @@ export default navbar([
     link: "/docs/",
   },
   {
-    text: "团队",
+    text: "开发者",
     icon: "user-group",
     link: "/group",
   },

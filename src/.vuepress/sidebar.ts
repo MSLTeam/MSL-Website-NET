@@ -8,7 +8,7 @@ export default sidebar({
       icon: "laptop-code",
       prefix: "docs/",
       link: "docs/",
-      children: ["start","server-config","frp","p2p","config"],
+      children: ["start","server-config","frp","p2p","config","launch_bds"],
     },
     {
       text: "其它文档",

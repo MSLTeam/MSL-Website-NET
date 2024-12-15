@@ -6,11 +6,15 @@ export default hopeTheme({
   hostname: "https://www.mslmc.cn",
 
   author: {
-    name: "MSLTeam",
+    name: "MSLDev",
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
+    "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
+    "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
+
+  iconPrefix: "fas fa-",
 
   logo: "/logo.png",
 
@@ -26,10 +30,10 @@ export default hopeTheme({
 
   // 页脚
   footer: "<a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>",
-  copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLTeam</a> 2021-2024",
+  copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLDev</a> 2021-2024",
   displayFooter: true,
 
-  
+
   // 加密配置
   //encrypt: {
   //  config: {
