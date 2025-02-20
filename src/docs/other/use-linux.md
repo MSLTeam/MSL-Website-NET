@@ -56,15 +56,15 @@
 
 连接SFTP，这里使用WinSCP进行演示
 
-![](.\assets\winscp_1.png)
+![](./assets/winscp_1.png)
 
 在**主机名**填写你SSH连接所使用的地址，在**端口**填写你连接时使用的端口（如果云服务器商没有特别说明即为22），在**用户名**填写你SSH连接时所使用的用户名，**密码**填写什么应该不用多说了吧。然后点击登录进入SFTP界面。
 
-![](.\assets\winscp_2.png)
+![](./assets/winscp_2.png)
 
 在左侧选择你提前准备好的服务端（图片中没有提到，如果需要更改路径点击左上角的白色框即可），然后拖入右侧的框中，即可进行上传。
 
-![](.\assets\winscp_3.png)
+![](./assets/winscp_3.png)
 
 **仔细阅读[EULA | Minecraft Minecraft 最终用户许可协议 (“EULA”)](https://www.minecraft.net/zh-hans/eula)。如果你继续下面的步骤，即视为你已同意Minecraft 最终用户许可协议 (“EULA”)且不违反相关条例！**
 
