@@ -4,6 +4,7 @@ icon: server
 # 启动一个官方基岩版服务器（BDS）
 
 这是热心群友 [七灝seven](https://space.bilibili.com/2112152080) 制作的视频教程↓↓↓
+<BiliBili bvid="BV1NzZpYZEjZ" />
 
 →前往bilibili观看 [MSL开服器开基岩版服务器视频教程](https://www.bilibili.com/video/BV1NzZpYZEjZ)
 
