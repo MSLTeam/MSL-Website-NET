@@ -48,3 +48,9 @@
 第二种：![f71ea21ecda8fd4c5053519559ee0dca](./assets/f71ea21ecda8fd4c5053519559ee0dca.png)
 
 在这张图上我们能看到libraries的一些路径，这是neoforge/forge安装失败了，重新创建即可
+
+第三种：这种情况少见
+
+![cc5f3ba612712ef8a357420aa482e8f7](./assets/cc5f3ba612712ef8a357420aa482e8f7.png)
+
+这里提到了ssl，这个可能是证书问题，在服务器设置往下翻找到jvm参数，输入-Djavax.net.ssl.trustStoreType=Windows-ROOT，然后点击保存并尝试开启服务器
