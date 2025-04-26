@@ -77,3 +77,9 @@ icon: question
 ![](./assets/cc5f3ba612712ef8a357420aa482e8f7.png)
 
 这里提到了ssl，这个可能是证书问题，在服务器设置往下翻找到jvm参数，输入-Djavax.net.ssl.trustStoreType=Windows-ROOT，然后点击保存并尝试开启服务器
+
+第四种：fabric服务端出现的  
+
+![](./assets/86ddd7a7da6d656d26d325e1a5b50eff.png)
+
+这种情况换网络环境，例如用手机热点，或者挂梯子
