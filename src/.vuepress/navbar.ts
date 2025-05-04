@@ -33,14 +33,19 @@ export default navbar([
     icon: "link",
     children: [
       {
-        text: "MSLX",
+        text: "MSL用户中心",
         icon: "link",
-        link: "https://mslx.top/",
+        link: "https://user.mslmc.net/",
       },
       {
         text: "MCSL",
         icon: "link",
         link: "https://mcsl.com.cn/",
+      },
+      {
+        text: "MSL纪念站",
+        icon: "link",
+        link: "https://msdoc.nstarmc.cn/",
       },
     ],
   },
