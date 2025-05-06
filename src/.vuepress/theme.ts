@@ -10,11 +10,7 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  iconAssets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
-    "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
-    "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
-
-  iconPrefix: "fas fa-",
+  
 
   logo: "/logo.png",
 
@@ -50,28 +46,11 @@ export default hopeTheme({
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
-
-  // 在这里配置主题提供的插件
-  plugins: {
-    // 你应该自行生成自己的评论服务
-    //comment: {
-    //  provider: "Giscus",
-    //  repo: "vuepress-theme-hope/giscus-discussions",
-    //  repoId: "R_kgDOG_Pt2A",
-    //  category: "Announcements",
-    //  categoryId: "DIC_kwDOG_Pt2M4COD69",
-    //},
-    searchPro: true,
-
-    components: {
-      components: ["Badge", "VPCard","BiliBili"],
-    },
-
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
+    markdown: {
       align: true,
       attrs: true,
-      codetabs: true,
+      codeTabs: true,
       component: true,
       demo: true,
       figure: true,
@@ -135,6 +114,30 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+  // 在这里配置主题提供的插件
+  plugins: {
+    // 你应该自行生成自己的评论服务
+    //comment: {
+    //  provider: "Giscus",
+    //  repo: "vuepress-theme-hope/giscus-discussions",
+    //  repoId: "R_kgDOG_Pt2A",
+    //  category: "Announcements",
+    //  categoryId: "DIC_kwDOG_Pt2M4COD69",
+    //},
+    slimsearch: true,
+
+    icon:{assets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
+    "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
+    "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
+    prefix: "fas fa-",},
+
+  
+
+    components: {
+      components: ["Badge", "VPCard","BiliBili"],
+    },
+
+
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
