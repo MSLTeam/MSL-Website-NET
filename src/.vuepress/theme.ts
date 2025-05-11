@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/MSLTeam/",
   },
 
-  
+
 
   logo: "/logo.png",
 
@@ -46,74 +46,74 @@ export default hopeTheme({
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
-    // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    markdown: {
-      align: true,
-      attrs: true,
-      codeTabs: true,
-      component: true,
-      demo: true,
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      mark: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
+  // 此处开启了很多功能用于演示，你应仅保留用到的功能。
+  markdown: {
+    align: true,
+    attrs: true,
+    codeTabs: true,
+    component: true,
+    demo: true,
+    figure: true,
+    imgLazyload: true,
+    imgSize: true,
+    include: true,
+    mark: true,
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
         },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true,
+      },
+    ],
+    sub: true,
+    sup: true,
+    tabs: true,
+    vPre: true,
 
-      // 在启用之前安装 chart.js
-      // chart: true,
+    // 在启用之前安装 chart.js
+    // chart: true,
 
-      // insert component easily
+    // insert component easily
 
-      // 在启用之前安装 echarts
-      // echarts: true,
+    // 在启用之前安装 echarts
+    // echarts: true,
 
-      // 在启用之前安装 flowchart.ts
-      // flowchart: true,
+    // 在启用之前安装 flowchart.ts
+    // flowchart: true,
 
-      // gfm requires mathjax-full to provide tex support
-      // gfm: true,
+    // gfm requires mathjax-full to provide tex support
+    // gfm: true,
 
-      // 在启用之前安装 katex
-      // katex: true,
+    // 在启用之前安装 katex
+    // katex: true,
 
-      // 在启用之前安装 mathjax-full
-      // mathjax: true,
+    // 在启用之前安装 mathjax-full
+    // mathjax: true,
 
-      // 在启用之前安装 mermaid
-      // mermaid: true,
+    // 在启用之前安装 mermaid
+    // mermaid: true,
 
-      // playground: {
-      //   presets: ["ts", "vue"],
-      // },
+    // playground: {
+    //   presets: ["ts", "vue"],
+    // },
 
-      // 在启用之前安装 reveal.js
-      // revealJs: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
+    // 在启用之前安装 reveal.js
+    // revealJs: {
+    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+    // },
 
-      // 在启用之前安装 @vue/repl
-      // vuePlayground: true,
+    // 在启用之前安装 @vue/repl
+    // vuePlayground: true,
 
-      // install sandpack-vue3 before enabling it
-      // sandpack: true,
-    },
+    // install sandpack-vue3 before enabling it
+    // sandpack: true,
+  },
   // 在这里配置主题提供的插件
   plugins: {
     // 你应该自行生成自己的评论服务
@@ -126,15 +126,17 @@ export default hopeTheme({
     //},
     slimsearch: true,
 
-    icon:{assets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
-    "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
-    "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
-    prefix: "fas fa-",},
+    icon: {
+      assets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
+        "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
+        "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js"],
+      prefix: "fas fa-",
+    },
 
-  
+
 
     components: {
-      components: ["Badge", "VPCard","BiliBili"],
+      components: ["Badge", "VPCard", "BiliBili"],
     },
 
 
