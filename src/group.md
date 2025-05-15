@@ -33,15 +33,16 @@ toc: false
   </div>
   <div class="card">
   <center>
-    <img src="https://q.qlogo.cn/headimg_dl?dst_uin=353181381&spec=640&img_type=jpg" alt="MojaveHao" style="width:95%; border-radius: 50%;"></center>
-    <center><h2>MojaveHao</h2>
-    <p>成员/全栈(?)</p>
-    <p><a href="https://www.github.com/MojaveHao">GitHub</a></p></center>
+    <img src="https://q.qlogo.cn/headimg_dl?dst_uin=2778318425&spec=640&img_type=jpg" alt="MojaveHao" style="width:95%; border-radius: 50%;"></center>
+    <center><h2>GuHanDuRen</h2>
+    <p>贡献了一些文档~</p>
+    <p><a href="https://github.com/GuHanDuRen">GitHub</a></p></center>
   </div>
   <div class="card">
     <center><img src="https://q.qlogo.cn/headimg_dl?dst_uin=1791123970&spec=640&img_type=jpg" alt="Xiaoyu" style="width:95%; border-radius: 50%;"></center>
     <center><h2>Xiaoyu</h2>
-    <p>成员/后端/摸🐟</p>
+    <p>成员/摸🐟</p>
     <p><a href="https://www.github.com/luluxiaoyu">GitHub</a></p></center>
   </div>
 </div>
+也感谢曾经为MSL作出贡献的人哦🌹~
