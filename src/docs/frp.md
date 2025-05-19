@@ -3,7 +3,7 @@ icon: ethernet
 ---
 # 内网穿透配置
 
-## MSL-Frp
+## [MSL Frp](https://user.mslmc.net/)
 
 点击左侧的映射选项，在该界面点击添加隧道：
 
