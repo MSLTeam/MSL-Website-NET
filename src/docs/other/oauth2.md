@@ -153,3 +153,23 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6M
 其他的信息按需使用/更新即可。
 
 此api文档: [获取用户信息 - MSL-User-System](https://apidoc-user.mslmc.cn/297251390e0)
+
+# 3.快速接入MSL登录到WordPress
+
+使用此插件: [Releases · luluxiaoyu/MSL-OAuth2-WordPress](https://github.com/luluxiaoyu/MSL-OAuth2-WordPress/releases)
+
+下载zip，并在您的wordpress上安装并启用插件。
+
+![image-20250519124130518](./assets/image-20250519124130518.png)
+
+在插件设置填写OAuth App信息:
+
+![image-20250519124318341](./assets/image-20250519124318341.png)
+
+回调地址要填写到OAuth App信息中
+
+![image-20250519124415802](./assets/image-20250519124415802.png)
+
+两边的信息配置好后，即可进入个人资料页面绑定MSL账户，绑定后即可使用MSL账户快速登录~
+
+![image-20250519124520689](./assets/image-20250519124520689.png)

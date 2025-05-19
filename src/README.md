@@ -11,13 +11,13 @@ actions:
     link: https://api.mslmc.cn/v3/download/update?direct=true
     type: primary
 
-  - text: 文档
+  - text: 用户中心/Frp
     icon: lightbulb
-    link: ./docs/start
+    link: https://user.mslmc.net/
 
   - text: Github
     icon: code-commit
-    link: https://github.com/MSLTeam/MSL
+    link: https://github.com/MSLTeam/MSL/
 
 highlights:
 
