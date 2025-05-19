@@ -154,7 +154,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6M
 
 此api文档: [获取用户信息 - MSL-User-System](https://apidoc-user.mslmc.cn/297251390e0)
 
-# 3.快速接入MSL登录到WordPress
+## 3.快速接入MSL登录到WordPress
 
 使用此插件: [Releases · luluxiaoyu/MSL-OAuth2-WordPress](https://github.com/luluxiaoyu/MSL-OAuth2-WordPress/releases)
 
