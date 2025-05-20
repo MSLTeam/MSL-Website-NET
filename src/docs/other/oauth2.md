@@ -60,11 +60,11 @@ https://user.mslmc.net/oauth/authorize
 ```
 https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK&state=SiGEWINNEQWQ&redirect_uri=https%3a%2f%2fapi.mslmc.cn%2fapi%2fcallback
 ```
-::: warning 最小拼接地址
+::: warning 最小示例拼接地址
 ```
 https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK
 ```
-但是**<u>不建议</u>**这么做，缺少`state`参数可能会导致一些风险哦~
+但是**不建议**这么做，缺少`state`参数可能会导致一些风险哦~
 :::
 
 若地址正确，访问后应该是如下页面:
