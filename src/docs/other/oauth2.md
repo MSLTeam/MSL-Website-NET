@@ -42,23 +42,30 @@ MSL统一身份验证基于OAuth2的授权码模式规范设计
 
 ### ①请求获取授权码（跳转MSL用户中心授权）
 
-验证地址：
+请求授权地址：
 
 ```
-https://user.mslmc.net/oauth
+https://user.mslmc.net/oauth/authorize
 ```
 查询参数:
 
-| 参数      | 示例值                      | 说明                                                         |
-| --------- | --------------------------- | ------------------------------------------------------------ |
-| client_id | NeQ5v7T72vm4Yi6ADyYAW6m4eVK | 客户端ID（第一步申请得到的）                                 |
-| state     | SiGEWINNEQWQ                | 随机字符串，防止CSRF，请求方应当生成并记录此字符串，用于后续验证 |
+| 参数         |              示例值               |       必需        |                             说明                             |
+| ------------ | :-------------------------------: | :---------------: | :----------------------------------------------------------: |
+| client_id    |    NeQ5v7T72vm4Yi6ADyYAW6m4eVK    |       必需        |                 客户端ID（第一步申请得到的）                 |
+| state        |           SiGEWINNEQWQ            | 非必需 但强烈建议 | 随机字符串，防止CSRF，请求方应当生成并记录此字符串，用于后续验证 |
+| redirect_uri | https://api.mslmc.cn/api/callback | 非必需 但强烈建议 | 登录成功后重新向的地址（一般是编码的地址），若不传此参数则读取App设置的URI地址 |
 
 示例拼接地址:
 
 ```
-https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK&state=iGEWINNEQWQ
+https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK&state=SiGEWINNEQWQ&redirect_uri=https%3a%2f%2fapi.mslmc.cn%2fapi%2fcallback
 ```
+::: warning 最小拼接地址
+```
+https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK
+```
+但是**<u>不建议</u>**这么做，缺少`state`参数可能会导致一些风险哦~
+:::
 
 若地址正确，访问后应该是如下页面:
 
@@ -71,7 +78,7 @@ https://user.mslmc.net/oauth?client_id=NeQ5v7T72vm4Yi6ADyYAW6m4eVK&state=iGEWINN
 `code`有效期只有10分钟。
 :::
 
-重定向示例:
+MSL用户中心授权成功的重定向示例:
 
 ```
 https://api.mslmc.cn/api/callback?code=y94vzbhskzcizEDmJMbWt775tbI&state=iGEWINNEQWQ
@@ -154,7 +161,9 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6M
 
 此api文档: [获取用户信息 - MSL-User-System](https://apidoc-user.mslmc.cn/297251390e0)
 
-## 3.快速接入MSL登录到WordPress
+## 3.快速接入MSL登录
+
+### # 接入到WordPress
 
 使用此插件: [Releases · luluxiaoyu/MSL-OAuth2-WordPress](https://github.com/luluxiaoyu/MSL-OAuth2-WordPress/releases)
 
