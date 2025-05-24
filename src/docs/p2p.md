@@ -1,5 +1,5 @@
 ---
-icon: network-wired
+icon: fas fa-network-wired
 ---
 # 点对点联机教程
 

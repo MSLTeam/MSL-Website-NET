@@ -1,5 +1,5 @@
 ---
-icon: question
+icon: fas fa-question
 ---
 
 # *常见问题*

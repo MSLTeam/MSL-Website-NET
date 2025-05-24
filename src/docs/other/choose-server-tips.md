@@ -1,5 +1,5 @@
 ---
-icon: lightbulb
+icon: fas fa-lightbulb
 ---
 # 如何选择服务端
 

@@ -1,5 +1,5 @@
 ---
-icon: thumbs-up
+icon: fas fa-thumbs-up
 ---
 
 # **服务器崩溃**类型

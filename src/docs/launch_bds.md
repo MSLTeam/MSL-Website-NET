@@ -1,5 +1,5 @@
 ---
-icon: server
+icon: fas fa-server
 ---
 # 启动一个官方基岩版服务器（BDS）
 

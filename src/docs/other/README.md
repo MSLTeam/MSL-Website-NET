@@ -1,5 +1,5 @@
 ---
-icon: angles-right
+icon: fas fa-angles-right
 ---
 # 其他使用说明
 

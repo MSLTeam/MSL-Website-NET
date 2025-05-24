@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: fas fa-home
 title: 主页
 heroImage: /logo.png
 heroText: Minecraft Server Launcher
