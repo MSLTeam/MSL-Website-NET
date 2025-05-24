@@ -130,7 +130,7 @@ export default hopeTheme({
       assets: ["https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js",
         "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js",
         "https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",],
-      prefix: "fa-brands fa-",
+      prefix: "fa-",
     },
 
 
