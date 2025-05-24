@@ -1,5 +1,5 @@
 ---
-icon: brands:compass
+icon: brands:ubuntu
 ---
 # 如何在Linux中开服
 
