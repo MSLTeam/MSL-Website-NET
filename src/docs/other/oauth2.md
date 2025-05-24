@@ -1,5 +1,5 @@
 ---
-icon: fas fa-flag
+icon: fas fa-arrow-right-to-bracket
 ---
 # MSL OAuth 2.0
 ::: tip TIPS
