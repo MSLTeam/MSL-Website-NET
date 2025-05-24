@@ -30,7 +30,7 @@ export default navbar([
   },
   {
     text: "友情链接",
-    icon: "link",
+    icon: "fas fa-link",
     children: [
       {
         text: "MSL用户中心",
