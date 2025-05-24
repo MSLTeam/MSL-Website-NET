@@ -1,44 +1,44 @@
 ---
 home: true
-icon: home
+icon: fas fa-home
 title: 主页
 heroImage: /logo.png
 heroText: Minecraft Server Launcher
 tagline: MSL-新一代服务器管理/联机工具
 actions:
   - text: 立即下载
-    icon: download
+    icon: fas fa-download
     link: https://api.mslmc.cn/v3/download/update?direct=true
     type: primary
 
   - text: 用户中心/Frp
-    icon: lightbulb
+    icon: fas fa-lightbulb
     link: https://user.mslmc.net/
 
   - text: 阅读文档
-    icon: code-commit
+    icon: fas fa-code-commit
     link: https://www.mslmc.cn/docs/
 
 highlights:
 
   - features:
       - title: 一键式开服
-        icon: rocket
+        icon: fas fa-rocket
         details: 只需简单操作即可创建一个属于你的Minecraft服务器
         link: /docs/start
 
       - title: 一键更改服务器设置
-        icon: gear
+        icon: fas fa-gear
         details: 开服器配备服务器的基本信息选项，您可一键进行更改
         link: /docs/server-config
 
       - title: 内网穿透
-        icon: ethernet
+        icon: fas fa-ethernet
         details: 开服器内置免费的内网映射，足够让您和您的小伙伴畅快联机
         link: /docs/frp
 
       - title: 点对点联机
-        icon: network-wired
+        icon: fas fa-network-wired
         details: 如果您既想联机又不想开服务器，不妨试一下此项新功能，无需服务器，通过P2P的方式进行局域网联机
         link: /docs/p2p
 

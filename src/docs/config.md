@@ -1,5 +1,5 @@
 ---
-icon: sliders
+icon: fas fa-sliders
 ---
 # MSL本体配置
 

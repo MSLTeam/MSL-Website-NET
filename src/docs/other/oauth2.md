@@ -1,5 +1,5 @@
 ---
-icon: flag
+icon: fas fa-flag
 ---
 # MSL OAuth 2.0
 ::: tip TIPS
