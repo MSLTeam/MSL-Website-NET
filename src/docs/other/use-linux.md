@@ -1,5 +1,5 @@
 ---
-icon: ubuntu
+icon: linux
 ---
 # 如何在Linux中开服
 
