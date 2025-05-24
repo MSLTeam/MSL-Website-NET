@@ -1,5 +1,5 @@
 ---
-icon: fa-brands fab-ubuntu
+icon: fab-ubuntu
 ---
 # 如何在Linux中开服
 
