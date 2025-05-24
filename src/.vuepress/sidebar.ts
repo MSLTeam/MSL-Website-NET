@@ -8,7 +8,7 @@ export default sidebar({
       icon: "laptop-code",
       prefix: "docs/",
       link: "docs/",
-      children: ["start","server-config","frp","p2p","config","launch_bds","faq","neoforge_foge"],
+      children: ["start","server-config","frp","p2p","config","launch_bds","package","faq","neoforge_foge","server_crash"],
     },
     {
       text: "其它文档",
