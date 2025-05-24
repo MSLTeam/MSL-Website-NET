@@ -15,9 +15,9 @@ actions:
     icon: lightbulb
     link: https://user.mslmc.net/
 
-  - text: Github
+  - text: 阅读文档
     icon: code-commit
-    link: https://github.com/MSLTeam/MSL/
+    link: https://www.mslmc.cn/docs/
 
 highlights:
 
