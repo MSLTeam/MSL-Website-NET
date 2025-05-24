@@ -1,10 +1,10 @@
 ---
-icon: ubuntu
+icon: linux
 ---
 # 如何在Linux中开服
 
 ::: important
-由于MSL暂时不支持Linux，所以本教程适合有一些基础的用户使用
+由于MSL暂时不支持Linux，所以本教程适合有一些基础的用户使用  
 MSLX在路上了~
 :::
 
