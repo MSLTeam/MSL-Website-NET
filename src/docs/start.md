@@ -57,7 +57,7 @@ icon: play
 
 在这里选择你将要使用的终端类型
 
-Tips：目前ConPty终端还有许多未修复的问题，不建议使用！
+**Tips：目前ConPty终端还有许多未修复的问题，不建议使用！**
 
 ![](./assets/shell.png)
 
