@@ -15,7 +15,7 @@ export default sidebar({
       icon: "angles-right",
       prefix: "docs/other/",
       link: "docs/other/",
-      children: ["choose-server-tips","oauth2"],
+      children: ["choose-server-tips","oauth2","use-linux"],
     },
     {      text: "团队成员",
     icon: "address-card",
