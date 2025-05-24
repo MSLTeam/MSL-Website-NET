@@ -1,5 +1,5 @@
 ---
-icon: compass
+icon: brands:compass
 ---
 # 如何在Linux中开服
 
