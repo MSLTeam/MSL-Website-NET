@@ -2,7 +2,6 @@
 ```component VPBanner
 title: 逐步开启一个MC服务器
 content: 立即开始您的Minecraft开服之旅吧！<br>也可以看左边的菜单栏选择您需要阅读的内容哦~
-color: var(--banner-text)
 actions:
   - text: 立即开始
     link: ./start.html
