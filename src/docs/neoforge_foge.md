@@ -1,5 +1,5 @@
 ---
-icon: fas fa-newspaper
+icon: newspaper
 ---
 
 # 手动安装neoforge/forge

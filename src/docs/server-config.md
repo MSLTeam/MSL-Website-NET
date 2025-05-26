@@ -1,5 +1,5 @@
 ---
-icon: fas fa-server
+icon: server
 ---
 # 服务器相关配置
 
