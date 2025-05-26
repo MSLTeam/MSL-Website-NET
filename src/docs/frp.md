@@ -1,5 +1,5 @@
 ---
-icon: fas fa-ethernet
+icon: ethernet
 ---
 # 内网穿透配置
 

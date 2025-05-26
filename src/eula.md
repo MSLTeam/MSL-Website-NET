@@ -1,5 +1,5 @@
 ---
-icon: fas fa-circle-info
+icon: circle-info
 ---
 # Minecraft Server Launcher 用户使用协议
 2024/7/14 更新

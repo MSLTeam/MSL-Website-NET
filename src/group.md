@@ -1,6 +1,6 @@
 ---
 toc: false
-icon: fas fa-address-card
+icon: address-card
 ---
 # 开发者
 ## 下面是MSL的开发者：

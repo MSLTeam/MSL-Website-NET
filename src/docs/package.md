@@ -1,5 +1,5 @@
 ---
-icon: fas fa-box
+icon: box
 ---
 # 服务器导入整合包教程
 

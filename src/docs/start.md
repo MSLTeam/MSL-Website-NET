@@ -1,5 +1,5 @@
 ---
-icon: fas fa-play
+icon: play
 ---
 # 使用MSL开服
 
