@@ -28,6 +28,7 @@ export default hopeTheme({
   footer: "<a href='https://beian.miit.gov.cn/'>粤ICP备2023094648号-2</a>",
   copyright: "Copyright © <a href='https://github.com/MSLTeam/'>MSLDev</a> 2021-2025",
   displayFooter: true,
+  contributors:"content",
 
 
   // 加密配置
@@ -138,6 +139,8 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard", "BiliBili","VPBanner"],
     },
+
+
 
 
 
