@@ -42,7 +42,7 @@ highlights:
       - title: 高速下载服务端
         icon: b:java
         details: 内置自研MSL服务端镜像源，包含多种服务端(Vanilla/Paper/Spigot···)，下的超级快~
-        link: /docs/start
+        link: https://user.mslmc.net/download/serverCore
 
       - title: 内网穿透
         icon: ethernet
