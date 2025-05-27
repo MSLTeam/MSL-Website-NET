@@ -102,7 +102,7 @@ https://user.mslmc.net/api/oauth/exchangeAccessToken
 
 返回示例:
 
-```
+```json
 {
   "code": 200,
   "msg": "授权成功",
@@ -136,7 +136,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6M
 
 返回示例:
 
-```
+```json
 {
   "code": 200,
   "msg": "获取用户信息成功",
