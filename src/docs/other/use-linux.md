@@ -2,6 +2,18 @@
 icon: b:ubuntu
 ---
 # 如何在Linux中开服
+```component VPBanner
+title: MSLX
+content: 支持跨平台的MSL正在火热开发🔥~
+logo: https://mslx.mslmc.cn/logo.png
+actions:
+  - text: 下载尝鲜
+    link: https://files.mslmc.cn/MSLX-Dev/Dev
+    
+  - text: MSLX文档
+    link: https://mslx.mslmc.cn/
+    type: default
+```
 
 ::: important
 由于MSL暂时不支持Linux，所以本教程适合有一些基础的用户使用  
