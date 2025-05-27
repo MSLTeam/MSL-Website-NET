@@ -4,18 +4,18 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "使用文档",
+      text: "MSL使用文档",
       icon: "laptop-code",
       prefix: "docs/",
       link: "docs/",
-      children: ["start", "server-config", "frp", "p2p", "config", "launch_bds", "package", "faq", "neoforge_foge", "server_crash"],
+      children: ["start", "server-config", "frp", "p2p", "config", "launch-bds", "package","choose-server-tips","neoforge-forge","faq", "server-crash"],
     },
     {
       text: "其它文档",
       icon: "angles-right",
       prefix: "docs/other/",
       link: "docs/other/",
-      children: ["choose-server-tips", "oauth2", "use-linux"],
+      children: ["msl-mirrors", "oauth2", "use-linux"],
     },
     {
       text: "团队成员",
