@@ -16,7 +16,7 @@ icon: link
   title="MSLX"
   desc="MSLX延续MSL的设计风格，基于.NET开发，跨平台支持！开服，运行Frp轻轻松松~"
   logo="https://mslx.mslmc.cn/logo.png"
-  link="https://liubing.me"
+  link="https://mslx.mslmc.cn"
 />
 
 <VPCard
