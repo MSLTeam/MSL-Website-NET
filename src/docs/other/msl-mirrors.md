@@ -10,7 +10,7 @@ actions:
   - text: 在线下载
     link: https://user.mslmc.net/download/serverCore
     
-  - text: API文档 (Apiox)
+  - text: API文档 (Apifox)
     link: https://apidoc-v3.mslmc.cn/api-191469704
     type: default
 ```
