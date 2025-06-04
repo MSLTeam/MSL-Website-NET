@@ -15,9 +15,9 @@ icon: play
 若您无法打开软件，请下载运行环境！（一般WIN10以上系统自带）  
 运行环境: .Net Framework 4.7.2 [点击下载](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-developer-pack-offline-installer)
 
-**另外请注意，请不要！不要！不要！将MSL直接放在C盘根目录或下载等目录下，否则后果自负！**
+**不建议将MSL放置于磁盘根目录或C盘某些特殊目录（如临时目录或需要管理员权限的目录），否则后果自负！**
 
-**在使用前请注意关闭一切杀毒软件，包括Windows Defender。**
+**建议在使用MSL时给软件所处目录添加至杀毒软件信任区中，或在杀软提示时及时添加信任，防止误杀**
 
 :::
 
@@ -45,7 +45,7 @@ icon: play
 
 在这里依照你的情况选择下载或导入服务端
 
-不会选择服务端？[看这里！](./other/choose-server-tips.md)
+不会选择服务端？[看这里！](./choose-server-tips.md)
 
 **如果你已经有了服务端，直接选择<备有服务端，选择地址>**
 
