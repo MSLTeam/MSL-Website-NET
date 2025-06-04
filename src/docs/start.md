@@ -45,7 +45,7 @@ icon: play
 
 在这里依照你的情况选择下载或导入服务端
 
-不会选择服务端？[看这里！](./other/choose-server-tips.md)
+不会选择服务端？[看这里！](./choose-server-tips.md)
 
 **如果你已经有了服务端，直接选择<备有服务端，选择地址>**
 
