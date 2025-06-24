@@ -5,7 +5,7 @@ icon: newspaper
 # 手动安装neoforge/forge
 
 ::: tip TIPS
-我演示的是1.20.1neoforge的安装，forge安装和他差不多，有人第一眼就想问我这个图标怎么是这样的，你们是白色的文件图标，这是因为我安装了java，这里的java是指通过正常的安装程序，并不是解压的java，具体如何安装java程序请自行百度搜索
+我演示的是1.20.1neoforge的安装，forge安装和他差不多，有人第一眼就想问我这个图标怎么是这样的，你们是白色的文件图标，这是因为我安装了java，这里的java是指通过正常的安装程序，并不是解压的java，具体如何安装java程序请自行百度搜索，java下载地址：[点击跳转](https://www.oracle.com/cn/java/technologies/downloads/)
 :::
 
 
