@@ -127,9 +127,9 @@ export default hopeTheme({
     slimsearch: true,
 
     icon: {
-      assets: ["https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/fontawesome.min.js",
-      "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/solid.min.js",
-      "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/js/brands.min.js"],
+      assets: ["https://jsdmirrors.aino.cyou/npm/@fortawesome/fontawesome-free@7.0.0/js/fontawesome.min.js",
+      "https://jsdmirrors.aino.cyou/npm/@fortawesome/fontawesome-free@7.0.0/js/solid.min.js",
+      "https://jsdmirrors.aino.cyou/npm/@fortawesome/fontawesome-free@7.0.0/js/brands.min.js"],
       type:"fontawesome",
     },
 
