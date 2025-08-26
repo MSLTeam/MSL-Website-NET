@@ -13,18 +13,23 @@ export default navbar([
     link: "/group",
   },
   {
-    text: "QQ群",
+    text: "QQ交流群",
     icon: "b:qq",
     children: [
       {
-        text: "1群",
+        text: "1群(可能满人)",
         icon: "comment-dots",
-        link: "https://qm.qq.com/q/XJHolO55ue",
+        link: "https://qm.qq.com/q/TZRpqXr2qm",
       },
       {
-        text: "2群",
+        text: "2群(空位较多)",
         icon: "comment-dots",
-        link: "https://qm.qq.com/q/iQs8kpW7Ti",
+        link: "https://qm.qq.com/q/3JgcVlG9dC",
+      },
+      {
+        text: "闲聊群",
+        icon: "message",
+        link: "https://qm.qq.com/q/db97QbwzGo",
       },
     ],
   },
