@@ -34,6 +34,11 @@ export default navbar([
     ],
   },
   {
+    text: "更新日志",
+    icon: "paper-plane",
+    link: "/change-logs",
+  },
+  {
     text: "友情链接",
     icon: "link",
     link: "/friend-links"

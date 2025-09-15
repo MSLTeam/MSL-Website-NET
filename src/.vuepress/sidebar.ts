@@ -18,6 +18,11 @@ export default sidebar({
       children: ["msl-mirrors", "oauth2", "use-linux"],
     },
     {
+      text: "更新日志",
+      icon: "paper-plane",
+      link: "/change-logs",
+    },
+    {
       text: "团队成员",
       icon: "address-card",
       link: "/group",
