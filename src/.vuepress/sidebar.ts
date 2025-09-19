@@ -15,7 +15,7 @@ export default sidebar({
       icon: "angles-right",
       prefix: "docs/other/",
       link: "docs/other/",
-      children: ["msl-mirrors", "oauth2", "use-linux"],
+      children: ["msl-skin","msl-mirrors", "oauth2", "use-linux"],
     },
     {
       text: "更新日志",
